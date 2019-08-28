@@ -1,0 +1,119 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 5px 0 !important;
+}
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 80px;
+}
+.carousel-indicators {
+    bottom: -45px;
+}
+.inspire {
+	margin-top: 20px;
+    text-align: center;
+}
+.inspire h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.inspire h2 {
+    font-size: 19px;
+}
+.inspire p {
+    margin-bottom: 16px;
+}
+
+/*slider end*/
+/*features start*/
+.features {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.common_title h1 {
+    font-size: 28px;
+}
+.common_title h2 {
+    font-size: 17px;
+}
+.single_iteam {
+	margin-top: 20px;
+}
+.icon_content {
+    margin-top: 0px;
+    text-align: center;
+}
+/*features end*/
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 5px 0 !important;
+}
+/*header end*/
+/*slider start*/
+.slider {
+    padding-bottom: 80px;
+}
+.carousel-indicators {
+    bottom: -60px;
+}
+.inspire {
+	margin-top: 20px;
+    text-align: center;
+}
+/*slider end*/
+/*features start*/
+.features {
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+.common_title h1 {
+    font-size: 29px;
+}
+.common_title h2 {
+    font-size: 17px;
+}
+.single_iteam {
+	margin-top: 35px;
+}
+.icon_content {
+    margin-top: 0px;
+    text-align: center;
+}
+/*features end*/
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+	.menu ul li a {
+    text-align: right;
+    padding: 5px 0 !important;
+}
+/*header end*/
+/*features start*/
+.features {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+/*features end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
+	
